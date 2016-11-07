@@ -98,7 +98,7 @@
         },
         {
             "name": "bitaac/bitfabric",
-            "version": "1.0.0-beta.0",
+            "version": "1.0.0-beta1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bitaac/bitfabric.git",
@@ -134,7 +134,7 @@
         },
         {
             "name": "bitaac/theme-admin",
-            "version": "1.0.0-beta.0",
+            "version": "1.0.0-beta1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bitaac/theme-admin.git",
@@ -166,7 +166,7 @@
         },
         {
             "name": "bitaac/theme-retro",
-            "version": "1.0.0-beta.0",
+            "version": "1.0.0-beta1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bitaac/theme-retro.git",
