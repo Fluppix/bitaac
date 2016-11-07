@@ -19,7 +19,7 @@ Change `my/path/` to wherever you want to install bitaac & run the command in yo
 composer create-project --prefer-dist bitaac/bitaac=1.0.0-beta1 my/path/ --prefer-dist
 ```
 
-Once the installation process is complete, you'll want to edit the `.env` file to fit your needs. Run the following command in your terminal to migrate the necessary database tables. You'll need to have an active database set up with the [TFS 1.2 schema](https://github.com/otland/forgottenserver/blob/1.1/schema.sql) pre-installed.
+Once the installation process is complete, you'll want to edit the `.env` file to fit your needs. Run the following command in your terminal to migrate the necessary database tables. You'll need to have an active database set up with the [TFS 1.1 schema](https://github.com/otland/forgottenserver/blob/1.1/schema.sql) pre-installed.
 
 ```bash
 php artisan migrate --seed
