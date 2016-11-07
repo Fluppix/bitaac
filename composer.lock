@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "5fee3acda11bc40f0e3f6fa4158f9518",
-    "content-hash": "77738878f625970e85400dbad940ff25",
+    "hash": "df1e238b621fba1aeb2373d331318f49",
+    "content-hash": "a51cddadc544d2331d7ec17c5958bc02",
     "packages": [
         {
             "name": "bacon/bacon-qr-code",
@@ -98,16 +98,16 @@
         },
         {
             "name": "bitaac/bitfabric",
-            "version": "dev-master",
+            "version": "1.0.0-beta.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bitaac/bitfabric.git",
-                "reference": "af516979942e8a53d1d06e5b321840ccd46637be"
+                "reference": "a92c45e1d450e994f5f103e53830544fa8c38d04"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bitaac/bitfabric/zipball/af516979942e8a53d1d06e5b321840ccd46637be",
-                "reference": "af516979942e8a53d1d06e5b321840ccd46637be",
+                "url": "https://api.github.com/repos/bitaac/bitfabric/zipball/a92c45e1d450e994f5f103e53830544fa8c38d04",
+                "reference": "a92c45e1d450e994f5f103e53830544fa8c38d04",
                 "shasum": ""
             },
             "require-dev": {
@@ -130,20 +130,20 @@
                     "email": "kristoffereklund1@gmail.com"
                 }
             ],
-            "time": "2016-11-01 17:14:25"
+            "time": "2016-11-06 20:00:38"
         },
         {
             "name": "bitaac/theme-admin",
-            "version": "dev-master",
+            "version": "1.0.0-beta.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bitaac/theme-admin.git",
-                "reference": "fe0c8ec95b6f1a2dcf07360e5496340e1eb812ed"
+                "reference": "f789a552e4828c8d59ee57642e26f61919451bd8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bitaac/theme-admin/zipball/fe0c8ec95b6f1a2dcf07360e5496340e1eb812ed",
-                "reference": "fe0c8ec95b6f1a2dcf07360e5496340e1eb812ed",
+                "url": "https://api.github.com/repos/bitaac/theme-admin/zipball/f789a552e4828c8d59ee57642e26f61919451bd8",
+                "reference": "f789a552e4828c8d59ee57642e26f61919451bd8",
                 "shasum": ""
             },
             "type": "library",
@@ -162,20 +162,20 @@
                     "email": "kristoffereklund1@gmail.com"
                 }
             ],
-            "time": "2016-11-01 17:12:32"
+            "time": "2016-11-05 12:53:02"
         },
         {
             "name": "bitaac/theme-retro",
-            "version": "dev-master",
+            "version": "1.0.0-beta.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/bitaac/theme-retro.git",
-                "reference": "2a2e1e5ad23494d14ecd3fbcc0b81daaa78c7b9f"
+                "reference": "851f279f8fec751cd8ebb434814c3e03541c388c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bitaac/theme-retro/zipball/2a2e1e5ad23494d14ecd3fbcc0b81daaa78c7b9f",
-                "reference": "2a2e1e5ad23494d14ecd3fbcc0b81daaa78c7b9f",
+                "url": "https://api.github.com/repos/bitaac/theme-retro/zipball/851f279f8fec751cd8ebb434814c3e03541c388c",
+                "reference": "851f279f8fec751cd8ebb434814c3e03541c388c",
                 "shasum": ""
             },
             "type": "library",
@@ -194,7 +194,7 @@
                     "email": "kristoffereklund1@gmail.com"
                 }
             ],
-            "time": "2016-11-01 16:12:10"
+            "time": "2016-11-06 20:03:32"
         },
         {
             "name": "christian-riesen/base32",
@@ -1176,16 +1176,16 @@
         },
         {
             "name": "omnipay/paypal",
-            "version": "v2.6.1",
+            "version": "v2.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/omnipay-paypal.git",
-                "reference": "942d616e87578330a4f48feab56430527889c07e"
+                "reference": "0f894c67112424e6259eb59f42ea35d4188b67e2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/omnipay-paypal/zipball/942d616e87578330a4f48feab56430527889c07e",
-                "reference": "942d616e87578330a4f48feab56430527889c07e",
+                "url": "https://api.github.com/repos/thephpleague/omnipay-paypal/zipball/0f894c67112424e6259eb59f42ea35d4188b67e2",
+                "reference": "0f894c67112424e6259eb59f42ea35d4188b67e2",
                 "shasum": ""
             },
             "require": {
@@ -1230,7 +1230,7 @@
                 "paypal",
                 "purchase"
             ],
-            "time": "2016-10-11 09:33:49"
+            "time": "2016-10-18 01:32:46"
         },
         {
             "name": "paragonie/random_compat",
@@ -3997,9 +3997,9 @@
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "bitaac/bitfabric": 20,
-        "bitaac/theme-retro": 20,
-        "bitaac/theme-admin": 20,
+        "bitaac/bitfabric": 10,
+        "bitaac/theme-retro": 10,
+        "bitaac/theme-admin": 10,
         "barryvdh/laravel-omnipay": 20
     },
     "prefer-stable": false,
